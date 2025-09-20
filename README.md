@@ -60,5 +60,5 @@ The Power BI report provides insights into:
 
 ## Author
 Aniket Patil – Data Analyst / BI Developer  
-LinkedIn: htt//www.linkedin.com/in/  
+LinkedIn: https://www.linkedin.com/in/aniketharipatil/
 GitHub: https://github.com/aniketpatil0810

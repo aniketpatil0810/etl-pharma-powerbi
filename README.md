@@ -57,3 +57,8 @@ The Power BI report provides insights into:
 2. Open Pharma ETL Internal.pbix in Power BI Desktop  
 3. Review the applied transformations and visuals  
 4. Use the PDF file for practice with SQL/Python
+
+## Author
+Aniket Patil – Data Analyst / BI Developer  
+LinkedIn: htt//www.linkedin.com/in/  
+GitHub: https://github.com/aniketpatil0810

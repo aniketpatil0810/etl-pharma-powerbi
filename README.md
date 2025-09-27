@@ -3,6 +3,10 @@
 This project demonstrates data cleaning, correction, transformation, and visualization of a Pharmaceutical Products Dataset.  
 The work is implemented in Power BI with ETL concepts, and tasks are based on practical data analyst exercises.
 
+### Project Screenshot
+
+<img src="https://github.com/aniketpatil0810/etl-pharma-powerbi/blob/main/Screenshot%202025-09-26%20200632.png" alt="Solution" width="800"> -<br>
+
 ## Project Structure
 Pharma-ETL-Project/
 │── Pharma ETL Internal.pbix   # Power BI dashboard and transformations
